@@ -21,6 +21,7 @@ The project showcases exploratory data analysis, visualization, and interpretati
 ## Tools and Packages Used
 - `Seurat` / `SpatialExperiment`
 - `KODAMA`
+- `Cytospace`
 - `ggplot2`
 - `dplyr`, `tidyverse`
 - `SingleCellExperiment`
